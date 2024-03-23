@@ -1,5 +1,5 @@
 
-# Project Report: Rover Manipulator Analysis
+# Rover Manipulator Analysis: Krapvik Robotic Arm
 
 ## Introduction to the Manipulator
 
